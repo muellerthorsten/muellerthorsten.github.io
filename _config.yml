@@ -13,7 +13,7 @@ name                     : &name "Thorsten G. Müller"
 description              : &description "Virologist interested in imaging HIV-cell interactions"
 url                      : https://muellerthorsten.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rep/muellerthorsten.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thorsten G. Müller"
   avatar           : "profile.png"
-  bio              : "Virologist \n interested in imaging \n HIV-cell interactions \n at the Center for \n Integrative Infectious Diseases Research \n University Hospital Heidelberg""
+  bio              : "Virologist \n interested in imaging \n HIV-cell interactions \n at the Center for \n Integrative Infectious Diseases Research \n University Hospital Heidelberg"
   location         : "Heidelberg, Germany"
   employer         : 
   pubmed           : 

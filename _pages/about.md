@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is the personal website of Thorsten Müller"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-a
+This is the personal website of Thorsten Müller. 
 
-A>
+A
 ======
-b
+
 
 

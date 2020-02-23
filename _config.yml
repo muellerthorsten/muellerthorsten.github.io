@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "personal website"
 title_separator          : "-"
 name                     : &name "Thorsten G. Müller"
 description              : &description "personal description"
@@ -83,10 +83,10 @@ author:
   name             : "Thorsten G. Müller"
   avatar           : "profile.png"
   bio              : " "
-  location         : "Location"
+  location         : "Center for Integrative Infectious Diseases Research - University Hospital Heidelberg"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.za/citations?hl=en&pli=1&user=V4z90_4AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&pli=1&user=V4z90_4AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "personal website"
+title                    : "Thorsten G. Müller"
 title_separator          : "-"
 name                     : &name "Thorsten G. Müller"
 description              : &description "Virologist interested in imaging HIV-cell interactions"
